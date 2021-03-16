@@ -1,4 +1,4 @@
-# *Modify dcox. Without tears.*
+# *Modify docx. Without tears.*
 快速、准确、批量替换文件夹内全部docx文档特定字段，并高亮显示存在修改的段落。
 ## 使用场景
 需要根据项目属性更改多个制式word文档（.docx格式）中的多个相同字段，word上的常规流程为打开每一个word文档然后“查找并替换”每一个字段。
